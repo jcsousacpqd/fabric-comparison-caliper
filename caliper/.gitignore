@@ -1,0 +1,4 @@
+workload/package-lock.json
+workload/caliper.log
+workload/node_modules/*
+workload/*.html
